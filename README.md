@@ -1,1 +1,1 @@
-# -Human-Activity-Recognition-Using-Deep-Learning-Models
+# Human-Activity-Recognition-Using-Deep-Learning-Models
