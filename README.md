@@ -1,31 +1,35 @@
 # Human-Activity-Recognition-Using-Deep-Learning-Models
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on Human Activity Recognition (HAR) using deep learning techniques to automatically identify human actions from video data. The system leverages advanced models to analyze both spatial and temporal features, enabling accurate and real-time activity classification.
 
-🎯 Objective
+## 🎯 Objective
 To develop an intelligent system that recognizes human activities from videos
 To achieve high accuracy (>90%) with low computational cost
 To enable real-time prediction for practical applications
-🧠 Technologies Used
+
+## 🧠 Technologies Used
 Python
 TensorFlow / Keras
 OpenCV
 Deep Learning (CNN, 3D CNN)
 MoViNet (Mobile Video Network)
 MoveNet (Pose Estimation)
-⚙️ System Workflow
+
+## ⚙️ System Workflow
 Video Input – User uploads a video
 Frame Extraction – Video converted into frames
 Preprocessing – Resize and normalize frames
 Pose Detection – Extract keypoints using MoveNet
 Model Processing – MoViNet analyzes temporal + spatial features
 Prediction – Activity label + confidence score displayed
-🏗️ Model Details
+
+## 🏗️ Model Details
 Uses MoViNet-A0 for efficient video classification
 Captures spatiotemporal features using 3D convolutions
 Lightweight and suitable for real-time applications
-📊 Dataset
+
+## 📊 Dataset
 UCF101 Dataset (subset used)
 Activities include:
 Walking
@@ -33,7 +37,8 @@ Running
 Sitting
 Standing
 Jumping
-📈 Results
+
+## 📈 Results
 Achieved ~92% accuracy
 High precision and recall across activity classes
 Real-time prediction with low latency
@@ -71,12 +76,7 @@ python app.py
 ├── templates/
 ├── dataset/
 └── README.md
-👩‍💻 Author
 
-Hema Sonica P
-B.Tech Artificial Intelligence and Data Science
-Saveetha Engineering College
-
-⭐ Conclusion
+## ⭐ Conclusion
 
 This project demonstrates an efficient and scalable approach to Human Activity Recognition using deep learning. By combining MoveNet and MoViNet, the system achieves high accuracy while maintaining real-time performance, making it suitable for real-world applications.
