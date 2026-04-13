@@ -1,4 +1,4 @@
-# 🚀 Human Activity Recognition Using Deep Learning Models
+# 🚀 Human Activity Recognition Using Deep Learning 
 
 ## 📌 Project Overview
 This project focuses on **Human Activity Recognition (HAR)** using deep learning techniques to automatically identify human actions from video data. The system leverages advanced models to analyze both spatial and temporal features, enabling accurate and real-time activity classification.
