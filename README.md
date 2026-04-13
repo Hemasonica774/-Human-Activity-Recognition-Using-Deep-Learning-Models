@@ -98,3 +98,18 @@ pip install -r requirements.txt
 
 # Run the application
 python app.py
+```
+## ⭐ Output
+
+<img width="737" height="367" alt="image" src="https://github.com/user-attachments/assets/b47b598d-78f5-4b5f-ac74-30a90b416be3" />
+
+<img width="724" height="371" alt="image" src="https://github.com/user-attachments/assets/2328a840-d590-48f3-987f-85b42fcdcf9c" />
+
+<img width="728" height="351" alt="image" src="https://github.com/user-attachments/assets/352df57e-a251-47ef-b057-1c7dfdb883b9" />
+
+<img width="532" height="294" alt="image" src="https://github.com/user-attachments/assets/20544253-f35c-4bb1-a566-eb21ce2aa4ae" />
+
+
+## 💡 Conclusion
+
+This project demonstrates an efficient and scalable approach to Human Activity Recognition using deep learning. The system achieves high accuracy while maintaining real-time performance, making it suitable for real-world applications.
